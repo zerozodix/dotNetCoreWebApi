@@ -1,0 +1,8 @@
+/Users/KenNeky/Documents/Code Playgrounds/DotNet/Pop/Pop/Pop/bin/Debug/netcoreapp1.1/Pop.deps.json
+/Users/KenNeky/Documents/Code Playgrounds/DotNet/Pop/Pop/Pop/bin/Debug/netcoreapp1.1/Pop.runtimeconfig.json
+/Users/KenNeky/Documents/Code Playgrounds/DotNet/Pop/Pop/Pop/bin/Debug/netcoreapp1.1/Pop.runtimeconfig.dev.json
+/Users/KenNeky/Documents/Code Playgrounds/DotNet/Pop/Pop/Pop/bin/Debug/netcoreapp1.1/Pop.dll
+/Users/KenNeky/Documents/Code Playgrounds/DotNet/Pop/Pop/Pop/bin/Debug/netcoreapp1.1/obj/Debug/netcoreapp1.1/Pop.pdb
+/Users/KenNeky/Documents/Code Playgrounds/DotNet/Pop/Pop/Pop/obj/Debug/netcoreapp1.1/Pop.AssemblyInfo.cs
+/Users/KenNeky/Documents/Code Playgrounds/DotNet/Pop/Pop/Pop/obj/Debug/netcoreapp1.1/Pop.dll
+/Users/KenNeky/Documents/Code Playgrounds/DotNet/Pop/Pop/Pop/obj/Debug/netcoreapp1.1/Pop.pdb
